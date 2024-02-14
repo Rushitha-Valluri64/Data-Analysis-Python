@@ -1,0 +1,17 @@
+Advanced python (SOC-2)
+
+Day 1: 12-02-24
+
+Today we learnt about Numpy and matplotlib modules 
+
+1) Numpy :
+              In Numpy module we learnt different array and matrix operations.
+        *) Basic operations
+        *) Array manipulations
+        *) Mathematical operations
+        *) Element wise operations
+        *) Linear Algebra
+        *) Statistical operations
+
+2) Matplotlib:
+                In Matplotlib module it enables us to create wide variety of plots,charts,visualizatios.
